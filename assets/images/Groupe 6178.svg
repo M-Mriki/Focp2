@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810.116" height="472.266" viewBox="0 0 810.116 472.266">
+  <g id="Groupe_6178" data-name="Groupe 6178" transform="translate(-557.884 -827.265)">
+    <g id="Colors" transform="translate(446.245 1304.335)">
+      <path id="Tracé_180" data-name="Tracé 180" d="M733.8-447.625v185.106H579.244Z" transform="translate(10.964 71.658)" fill="#612c7f" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_2254" data-name="Ellipse 2254" cx="39.099" cy="39.099" r="39.099" transform="translate(824.567 -467.415)" fill="#612c7f" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_2255" data-name="Ellipse 2255" cx="33.373" cy="33.373" r="33.373" transform="translate(705.315 -398.993)" fill="#e67825" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <circle id="Ellipse_2256" data-name="Ellipse 2256" cx="16.686" cy="16.686" r="16.686" transform="translate(631.045 -448.86)" fill="#18aab5" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Tracé_181" data-name="Tracé 181" d="M712.606-351.061A34.463,34.463,0,0,0,678.144-316.6a34.46,34.46,0,0,0,34.462,34.458Z" transform="translate(207.389 263.17)" fill="#549332" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Tracé_182" data-name="Tracé 182" d="M632.567-159.041a124.9,124.9,0,0,0,124.9-124.9,124.9,124.9,0,0,0-124.9-124.9Z" transform="translate(112.201 142.513)" fill="#18aab5" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="81.251" height="81.251" transform="translate(693.708 -164.979)" fill="#58a345" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Tracé_183" data-name="Tracé 183" d="M757.936-434.081A100.654,100.654,0,0,0,657.282-333.427,100.655,100.655,0,0,0,757.936-232.77Z" transform="translate(163.818 89.783)" fill="#e67825" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Tracé_184" data-name="Tracé 184" d="M820.866-365.276l-40.145-.689c0-.222-.018-32.374-20.372-52.863-11.925-12.005-29.236-18.092-51.448-18.092-70.681,0-73.646,64.164-73.75,71.48L595-365.7c.155-38.52,24.158-111.368,113.9-111.368,33.507,0,60.519,10.2,80.282,30.3C821.326-414.074,820.9-367.255,820.866-365.276Z" transform="translate(33.745 0)" fill="#58a345" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <path id="Tracé_199" data-name="Tracé 199" d="M1024.094-74.989l-75.911-1.3c0-.42-.035-61.217-38.522-99.968-22.543-22.7-55.278-34.212-97.287-34.212-133.655,0-139.255,121.337-139.459,135.173l-75.923-.5c.292-72.846,45.688-210.6,215.383-210.6,63.367,0,114.446,19.279,151.817,57.3C1024.97-167.259,1024.159-78.727,1024.094-74.989Z" transform="translate(1581.986 1013.142) rotate(180)" fill="#dfe6ec" opacity="0.9" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

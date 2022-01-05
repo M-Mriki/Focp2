@@ -1,0 +1,33 @@
+button {
+  outline: none !important;
+  border: none;
+  background: transparent;
+  &:active {
+    outline: none !important;
+  }
+  &:focus {
+    box-shadow: none !important;
+  }
+  &:hover {
+    outline: none;
+  }
+}
+button {
+  &.btn {
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 6px 35px;   
+    font-family: 'ITC Avant Garde Gothic Std Book';
+    text-transform: uppercase;
+    &.btn-orange{
+    background-color: $colorOrange;
+    }
+    &.btn-ciel{
+      background-color: $colorCiel;
+    }
+    &:hover{
+      color: #fff;
+    }
+  }
+}
